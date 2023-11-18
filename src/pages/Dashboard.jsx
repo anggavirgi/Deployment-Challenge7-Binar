@@ -8,7 +8,7 @@ export const Dashboard = () => {
   return (
     <div>
       {<Header />}
-      <div className="h-[90vh] flex flex-col gap-6 justify-center items-center -mt-20">
+      <div className="h-[90vh] flex flex-col gap-6 justify-center items-center">
         <div className="font-semibold text-2xl">
           CHALLENGE CHAPTER 7 - BINAR
         </div>
